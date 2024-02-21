@@ -1,0 +1,24 @@
+{
+  "name": "email-sender-app",
+  "version": "1.0.0",
+  "description": "App for sending emails using Node.js and Nodemailer",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/aishakkk/lab2"
+  },
+  "keywords": [
+    "emailsender",
+    "email",
+    "mailer",
+    "Node.js"
+  ],
+  "author": "Aisha Kalimatova",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.9"
+  }
+}
